@@ -78,7 +78,7 @@ main {
     display: flex;
     justify-content: space-between;
     padding: 80px 30px 50px;
-    margin-top: -100px;
+    margin-top: -85px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }
